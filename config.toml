@@ -1,8 +1,7 @@
-languageCode = "en-us"
+locale = "en-US"
 title = "Prologue"
-baseurl = "https://noltron000.github.io/my-website/"
+baseURL = "https://noltron000.github.io/my-first-website/"
 theme = "prologue"
-publishDir = "docs"
 relativeURLs = true
 
 [params]
