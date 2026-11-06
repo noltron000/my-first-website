@@ -1,6 +1,6 @@
 locale = "en-US"
 title = "Prologue"
-baseURL = "https://noltron000.github.io/my-first-website/"
+baseURL = "https://projects.nebuloid.dev/my-first-website/"
 theme = "prologue"
 relativeURLs = true
 
