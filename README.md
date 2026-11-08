@@ -1,7 +1,11 @@
 # My First Website
+*View the project live at [https://projects.nebuloid.dev/my-first-website/](https://projects.nebuloid.dev/my-first-website/).*
+
 > I originally made this website back in 2017, when I was still studying at Kent State University.
-> A lot has changed since then, but I appreciate the idea of keeping this website live as a sort of archival unit.
+> A lot has changed in my life since then, but I appreciate the idea of keeping this website live as a sort of archival unit.
 > *Thanks for visiting!*
+
+![Kent State University Campus](themes/prologue/static/img/banner.jpg)
 
 ## Running Locally
 You can get this website running locally with a few commands in your terminal:
