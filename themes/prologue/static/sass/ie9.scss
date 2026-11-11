@@ -1,7 +1,7 @@
-@import 'libs/vars';
-@import 'libs/functions';
-@import 'libs/mixins';
-@import 'libs/skel';
+@import "libs/vars";
+@import "libs/functions";
+@import "libs/mixins";
+@import "libs/skel";
 
 /*
 	Prologue by HTML5 UP
@@ -11,10 +11,10 @@
 
 /* Button */
 
-	input[type="button"],
-	input[type="submit"],
-	input[type="reset"],
-	button,
-	.button {
-		background-image: url('images/ie/grad0-15.svg');
-	}
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+button,
+.button {
+	background-image: url("images/ie/grad0-15.svg");
+}

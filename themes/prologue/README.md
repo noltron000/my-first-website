@@ -8,8 +8,8 @@ Prologue is a single page responsive site template with a sticky sidebar. It is 
 
 Run the following commands inside your Hugo site folder:
 
-    $ cd themes
-    $ git clone https://github.com/sethmacleod/prologue.git
+	$ cd themes
+	$ git clone https://github.com/sethmacleod/prologue.git
 
 ## Getting Started
 

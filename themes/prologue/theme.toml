@@ -11,11 +11,10 @@ features = ["responsive", "sticky sidebar"]
 min_version = 0.18
 
 [author]
-  name = "Seth MacLeod"
-  homepage = "https://www.sethmacleod.com/"
+	name = "Seth MacLeod"
+	homepage = "https://www.sethmacleod.com/"
 
 # If porting an existing theme
 [original]
-  name = "@ajlkn"
-  homepage = "https://html5up.net/prologue"
-  repo = ""
+	name = "@ajlkn"
+	homepage = "https://html5up.net/prologue"
