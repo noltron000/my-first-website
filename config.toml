@@ -1,4 +1,3 @@
-locale = "en-US"
 title = "Prologue"
 baseURL = "https://projects.nebuloid.dev/my-first-website/"
 theme = "prologue"
@@ -26,11 +25,6 @@ relativeURLs = true
   medium = "github"
   icon = "github"
   link = "https://github.com/noltron000"
-
-#--> [[params.social]]
-#-->   medium = "dribbble"
-#-->   icon = "dribbble"
-#-->   link = ""
 
 [[params.social]]
   medium = "email"
