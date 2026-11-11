@@ -19,6 +19,20 @@
 		var	$window = $(window),
 			$body = $('body');
 
+		var	$archiveNotice = $('#archive-notice'),
+			updateArchiveNoticeHeight = function() {
+				if ($archiveNotice.length)
+					document.documentElement.style.setProperty('--archive-notice-height', $archiveNotice.outerHeight() + 'px');
+			};
+
+		updateArchiveNoticeHeight();
+		$window.on('resize', updateArchiveNoticeHeight);
+
+		$('#archive-notice-dismiss').on('click', function() {
+			$archiveNotice.remove();
+			document.documentElement.style.removeProperty('--archive-notice-height');
+		});
+
 		// Disable animations/transitions until the page has loaded.
 			$body.addClass('is-loading');
 
