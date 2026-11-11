@@ -1,8 +1,9 @@
 # My First Website
-*View the project live at [https://projects.nebuloid.dev/my-first-website/](https://projects.nebuloid.dev/my-first-website/).*
+*View the project live at **[https://projects.nebuloid.dev/my-first-website/](https://projects.nebuloid.dev/my-first-website/)**.*
 
 > I originally made this website back in 2017, when I was still studying at Kent State University.
 > A lot has changed in my life since then, but I appreciate the idea of keeping this website live as a sort of archival unit.
+>
 > *Thanks for visiting!*
 
 ![Kent State University Campus](themes/prologue/static/img/banner.jpg)
@@ -26,4 +27,4 @@ The generated site is written to the ignored `public/` directory.
 
 ## Deploy using GitHub Pages
 The site is hosted with GitHub Pages from the `main` branch at the repository root.
-Whenever `main` receives new commits, the pages should update automatically.
+Whenever `main` receives new commits, gh pages should update automatically.
