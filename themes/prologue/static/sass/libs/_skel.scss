@@ -192,9 +192,9 @@
 				}
 			}
 
-        @media #{$query} {
-            @content;
-        }
+		@media #{$query} {
+			@content;
+		}
 
 	}
 

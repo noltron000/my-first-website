@@ -4,77 +4,77 @@ theme = "prologue"
 relativeURLs = true
 
 [params]
-  name = "Nolan Kovacik"
-  avatar = "https://avatars2.githubusercontent.com/u/19766927?s=460&v=4"
-  image = "https://images.pexels.com/photos/52533/orange-fruit-vitamins-healthy-eating-52533.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"
-  description = "Information Systems"
-  copyright = "2017"
-  twitter = "noltron000"
+	name = "Nolan Kovacik"
+	avatar = "https://avatars2.githubusercontent.com/u/19766927?s=460&v=4"
+	image = "https://images.pexels.com/photos/52533/orange-fruit-vitamins-healthy-eating-52533.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"
+	description = "Information Systems"
+	copyright = "2017"
+	twitter = "noltron000"
 
 [[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "//twitter.com/noltron000"
+	medium = "twitter"
+	icon = "twitter"
+	link = "//twitter.com/noltron000"
 
 [[params.social]]
-  medium = "linkedin"
-  icon = "linkedin"
-  link = "https://www.linkedin.com/in/noltron000"
+	medium = "linkedin"
+	icon = "linkedin"
+	link = "https://www.linkedin.com/in/noltron000"
 
 [[params.social]]
-  medium = "github"
-  icon = "github"
-  link = "https://github.com/noltron000"
+	medium = "github"
+	icon = "github"
+	link = "https://github.com/noltron000"
 
 [[params.social]]
-  medium = "email"
-  icon = "envelope"
-  link = "https://mail.google.com/mail/?view=cm&fs=1&to=nkovacik@kent.edu&su=&body=&cc=noltron000@gmail.com"
+	medium = "email"
+	icon = "envelope"
+	link = "https://mail.google.com/mail/?view=cm&fs=1&to=nkovacik@kent.edu&su=&body=&cc=noltron000@gmail.com"
 
 # Portfolio column one
 
 [[params.portfolio1]]
-  title = "Frances Coronel"
-  alt = "FVCproductions"
-  source = "img/frances.jpg"
-  url = "https://fvcproductions.com/"
+	title = "Frances Coronel"
+	alt = "FVCproductions"
+	source = "img/frances.jpg"
+	url = "https://fvcproductions.com/"
 
 [[params.portfolio1]]
-  title = "Programming"
-  alt = "Code"
-  source = "img/code.jpg"
-  url = "https://github.com/noltron000"
+	title = "Programming"
+	alt = "Code"
+	source = "img/code.jpg"
+	url = "https://github.com/noltron000"
 
 # Portfolio column two
 
 [[params.portfolio2]]
-  title = "Snowboarding"
-  alt = "Snow Lift"
-  source = "img/winter.jpg"
-  url = "https://www.pknpk.com/"
+	title = "Snowboarding"
+	alt = "Snow Lift"
+	source = "img/winter.jpg"
+	url = "https://www.pknpk.com/"
 
 [[params.portfolio2]]
-  title = "Tabletop Games"
-  alt = "D&D"
-  source = "img/roleplay.jpg"
-  url = "http://dnd.wizards.com/dungeons-and-dragons"
+	title = "Tabletop Games"
+	alt = "D&D"
+	source = "img/roleplay.jpg"
+	url = "http://dnd.wizards.com/dungeons-and-dragons"
 
 # Portfolio column three
 
 [[params.portfolio3]]
-  title = "Smoothies"
-  alt = "Yummy!"
-  source = "img/smoothies.jpg"
-  url = "http://pulpjuiceandsmoothie.com/"
+	title = "Smoothies"
+	alt = "Yummy!"
+	source = "img/smoothies.jpg"
+	url = "http://pulpjuiceandsmoothie.com/"
 
 [[params.portfolio3]]
-  title = "Computer Hardware"
-  alt = "Graphics Cards"
-  source = "img/hardware.jpg"
-  url = "https://pcpartpicker.com/guide/"
+	title = "Computer Hardware"
+	alt = "Graphics Cards"
+	source = "img/hardware.jpg"
+	url = "https://pcpartpicker.com/guide/"
 
 [[params.portfolio3]]
-  title = "Cats"
-  alt = "Meow"
-  source = "img/cat.jpg"
-  url = "https://imgur.com/r/cats"
+	title = "Cats"
+	alt = "Meow"
+	source = "img/cat.jpg"
+	url = "https://imgur.com/r/cats"
